@@ -36,14 +36,15 @@ This is a chatbot for a restaurant that allows users to place an order, cancel o
 ---
 
 1. Clone the repository:
+   - 'https://github.com/amitsingh-github/Restaurantt-ChatBot'
     
-2. Install all  dependencies:
+3. Install all  dependencies:
     - `npm install`
-3. Create a .env file in the root directory using the example.env file as a guide 
+4. Create a .env file in the root directory using the example.env file as a guide 
 
-4. Start the application:
+5. Start the application:
     - `npm run dev`
-5. Open the application in your browser:
+6. Open the application in your browser:
     - `http://localhost:3000`
 
 ### Usage
